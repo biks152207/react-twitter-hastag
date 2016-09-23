@@ -31,7 +31,9 @@
     "express": "^4.13.4",
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
-    "webpack": "^1.12.13"
+    "twitter": "^1.4.0",
+    "webpack": "^1.12.13",
+    "whatwg-fetch": "^1.0.0"
   },
   "devDependencies": {
     "concurrently": "^1.0.0"
